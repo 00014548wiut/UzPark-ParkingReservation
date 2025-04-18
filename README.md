@@ -1,5 +1,6 @@
 To start the project need to 
-add-migration <any name>
+add-migration "any name"
+
 update-Database
 
 After that need to insert this values to the table:
